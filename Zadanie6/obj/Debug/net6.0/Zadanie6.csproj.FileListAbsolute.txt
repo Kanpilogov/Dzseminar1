@@ -1,0 +1,15 @@
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\bin\Debug\net6.0\Zadanie6.exe
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\bin\Debug\net6.0\Zadanie6.deps.json
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\bin\Debug\net6.0\Zadanie6.runtimeconfig.json
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\bin\Debug\net6.0\Zadanie6.dll
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\bin\Debug\net6.0\Zadanie6.pdb
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.csproj.AssemblyReference.cache
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.AssemblyInfoInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.AssemblyInfo.cs
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.dll
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\refint\Zadanie6.dll
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.pdb
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\Zadanie6.genruntimeconfig.cache
+C:\Users\Admim\Desktop\УЧЕБА\DZC#1\Zadanie6\obj\Debug\net6.0\ref\Zadanie6.dll
